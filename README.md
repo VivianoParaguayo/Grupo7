@@ -15,3 +15,9 @@ analisar circuitos RLC em regime de corrente alternada. Para tal finalidade
 matemática fasorial e as técnicas de análise nodasl e análise de malhas,
 que desaguam sempre na resolução de um sistema de equações lineares de n
 variáveis e n equações, exigindo conhecimento em álgebra linear.
+
+Ao utilizar uma aplicação Java para realizar a tarefa proposta é necessário
+modelar os componentes a serem utilizados, além de criar métodos para fazer
+eles interagirem entre si a fim de formar um sistema mais complexo. No caso
+da análise no domínio da frequência será necessaŕio criar um modo de levar
+os atributos reais modelados para este domínio e usá-los nos cálculos.
